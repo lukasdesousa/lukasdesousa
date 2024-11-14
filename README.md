@@ -23,4 +23,4 @@ O ecossistema Node.js para escalabilidade e performance
 🔗 Conecte-se Comigo
 Se você quiser trocar ideias, colaborar em projetos ou apenas conectar, sinta-se à vontade para me encontrar no LinkedIn!
 
-LinkedIn: https://www.linkedin.com/in/lukas-souza-05b85b304/ </strong>
+LinkedIn:  <a href='https://www.linkedin.com/in/lukas-souza-05b85b304/'>Lukas Souza</a> </strong>
