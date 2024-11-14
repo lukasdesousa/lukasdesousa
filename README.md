@@ -12,11 +12,11 @@ Sempre em busca de inovação, gosto de explorar novos frameworks, ferramentas e
 🚀 Tecnologias e Ferramentas
 Aqui estão algumas das principais tecnologias e ferramentas com as quais trabalho:
 
-Linguagens: JavaScript
-Frontend: React, HTML5, CSS
-Backend: Node.js
-Ferramentas: Git, VS Code
-🌱 Atualmente Aprendendo
+Linguagens: JavaScript<br>
+Frontend: React, HTML5, CSS<br>
+Backend: Node.js<br>
+Ferramentas: Git, VS Code<br>
+🌱 Atualmente Aprendendo<br>
 A tecnologia nunca para, e eu também não! Atualmente, estou explorando:
 
 Melhores práticas de arquitetura em aplicações React
