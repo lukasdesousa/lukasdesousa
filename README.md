@@ -1,4 +1,4 @@
-Olá, eu sou Lukas! 👋 ![gif_acenando](https://cdn-icons-gif.flaticon.com/11321/11321431.gif)
+Olá, eu sou Lukas! 👋 <img src='https://cdn-icons-gif.flaticon.com/11321/11321431.gif' alt='gif acenando' width='200' />
 Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais cativantes, combinando minha expertise em desenvolvimento frontend e backend. Aqui, você encontrará alguns dos projetos nos quais estou trabalhando e tecnologias com as quais tenho experiência.
 
 💼 Sobre Mim
