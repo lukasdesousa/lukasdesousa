@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá, eu sou Lukas! 👋
+Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais cativantes, combinando minha expertise em desenvolvimento frontend e backend. Aqui, você encontrará alguns dos projetos nos quais estou trabalhando e tecnologias com as quais tenho experiência.
 
-<!--
-**lukasdesousa/lukasdesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Sobre Mim
+Sou um desenvolvedor especializado em React e JavaScript, com uma sólida base em desenvolvimento backend usando Node.js. Minha jornada no desenvolvimento web me proporcionou vastos conhecimentos em HTML5 e CSS, permitindo que eu crie interfaces modernas, responsivas e focadas na experiência do usuário.
 
-Here are some ideas to get you started:
+Sempre em busca de inovação, gosto de explorar novos frameworks, ferramentas e práticas para entregar o melhor em cada projeto. Se você valoriza um código limpo e eficiente, e adora ver ideias ganhando vida no navegador, você está no lugar certo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e Ferramentas
+Aqui estão algumas das principais tecnologias e ferramentas com as quais trabalho:
+
+Linguagens: JavaScript
+Frontend: React, HTML5, CSS
+Backend: Node.js
+Ferramentas: Git, VS Code
+🌱 Atualmente Aprendendo
+A tecnologia nunca para, e eu também não! Atualmente, estou explorando:
+
+Melhores práticas de arquitetura em aplicações React
+O ecossistema Node.js para escalabilidade e performance
+
+🔗 Conecte-se Comigo
+Se você quiser trocar ideias, colaborar em projetos ou apenas conectar, sinta-se à vontade para me encontrar no LinkedIn!
+
+LinkedIn: https://www.linkedin.com/in/lukas-souza-05b85b304/
