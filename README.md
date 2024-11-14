@@ -1,4 +1,5 @@
-Olá, eu sou Lukas! 👋 <img src='https://cdn-icons-gif.flaticon.com/11321/11321431.gif' alt='gif acenando' width='200' />
+<img src='https://cdn-icons-gif.flaticon.com/11321/11321431.gif' alt='gif acenando' width='100' />
+<strong>Olá, eu sou Lukas! 👋
 Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais cativantes, combinando minha expertise em desenvolvimento frontend e backend. Aqui, você encontrará alguns dos projetos nos quais estou trabalhando e tecnologias com as quais tenho experiência.
 
 💼 Sobre Mim
@@ -22,4 +23,4 @@ O ecossistema Node.js para escalabilidade e performance
 🔗 Conecte-se Comigo
 Se você quiser trocar ideias, colaborar em projetos ou apenas conectar, sinta-se à vontade para me encontrar no LinkedIn!
 
-LinkedIn: https://www.linkedin.com/in/lukas-souza-05b85b304/
+LinkedIn: https://www.linkedin.com/in/lukas-souza-05b85b304/ </strong>
