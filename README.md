@@ -2,6 +2,8 @@
 <strong><h1>Olá, eu sou Lukas!</h1><br> 👋
 Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais cativantes, combinando minha expertise em desenvolvimento frontend e backend. Aqui, você encontrará alguns dos projetos nos quais estou trabalhando e tecnologias com as quais tenho experiência.
 <br>
+
+
 💼 Sobre Mim
 Sou um desenvolvedor especializado em React e JavaScript, com uma sólida base em desenvolvimento backend usando Node.js. Minha jornada no desenvolvimento web me proporcionou vastos conhecimentos em HTML5 e CSS, permitindo que eu crie interfaces modernas, responsivas e focadas na experiência do usuário.
 
@@ -23,4 +25,4 @@ O ecossistema Node.js para escalabilidade e performance
 🔗 Conecte-se Comigo
 Se você quiser trocar ideias, colaborar em projetos ou apenas conectar, sinta-se à vontade para me encontrar no LinkedIn!
 
-LinkedIn:  <a href='https://www.linkedin.com/in/lukas-souza-05b85b304/'>Lukas Souza</a> </strong>
+LinkedIn:  <a target='_blank' href='https://www.linkedin.com/in/lukas-souza-05b85b304/'>Lukas Souza</a> </strong>
