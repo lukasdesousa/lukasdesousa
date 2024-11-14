@@ -1,6 +1,6 @@
 <img src='https://cdn-icons-png.flaticon.com/512/7218/7218647.png' alt='gif acenando' width='100' />
 <strong><h1>Olá, eu sou Lukas!</h1><br> 👋
-Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais cativantes, combinando minha expertise em desenvolvimento frontend e backend. Aqui, você encontrará alguns dos projetos nos quais estou trabalhando e tecnologias com as quais tenho experiência.
+Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais cativantes, combinando minha expertise em desenvolvimento frontend e backend. Aqui, você encontrará alguns dos projetos nos quais estou trabalhando e tecnologias com as quais tenho experiência.<br>
 
 💼 Sobre Mim
 Sou um desenvolvedor especializado em React e JavaScript, com uma sólida base em desenvolvimento backend usando Node.js. Minha jornada no desenvolvimento web me proporcionou vastos conhecimentos em HTML5 e CSS, permitindo que eu crie interfaces modernas, responsivas e focadas na experiência do usuário.
