@@ -3,7 +3,7 @@
 <h1 align="center">🌟 Lukas - Desenvolvedor de software</h1>
 
 <p align="center">
-  <img src="https://i.redd.it/exporting-3d-model-as-gif-makes-it-glitchy-v0-y23i0mjsdlkc1.gif?width=625&auto=webp&s=ec9b7e4ec93012de9a54a54797d5fd5bbb361d38" alt="Banner" width="20%" />
+  <img src="skull_02.gif" alt="Banner" width="20%" />
 </p>
 
 <p align="center">
@@ -45,11 +45,7 @@ Atualmente estudo Engenharia de Software e me especializo na criação de interf
 ## 🚀 Projetos em destaque
 
 ### 💘 Loveverse
-Plataforma social com envio de mensagens, imagens, sensores, verificação de e-mail e integração com PIX.
-
-<p align="center">
-  <img src="/assets/screenshot1.png" alt="Loveverse Screenshot" width="80%" />
-</p>
+Plataforma social com envio de mensagens, imagens, sensores, envio de e-mails e integração com PIX.
 
 Tecnologias: `Next.js`, `Redux`, `Styled Components`, `Cloudinary`, `Resend`, `Abacate Pay`
 
@@ -57,10 +53,6 @@ Tecnologias: `Next.js`, `Redux`, `Styled Components`, `Cloudinary`, `Resend`, `A
 
 ### 📊 Analyser
 Ferramenta de análise de contratos cripto com interface intuitiva e gráficos.
-
-<p align="center">
-  <img src="/assets/screenshot2.png" alt="Analyser Screenshot" width="80%" />
-</p>
 
 Tecnologias: `Next.js`, `Python`, `CoinMarketCap API`, `PostgreSQL`, `IA`
 
