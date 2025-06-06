@@ -47,14 +47,14 @@ Atualmente estudo Engenharia de Software e me especializo na criação de interf
 ### 💘 Loveverse
 Plataforma social com envio de mensagens, imagens, sensores, envio de e-mails e integração com PIX.
 
-Tecnologias: `Next.js`, `Redux`, `Styled Components`, `Cloudinary`, `Resend`, `Abacate Pay`
+Tecnologias: `Next.js`, `Styled Components`, `Cloudinary`, `Resend`, `React JS`
 
 ---
 
 ### 📊 Analyser
 Ferramenta de análise de contratos cripto com interface intuitiva e gráficos.
 
-Tecnologias: `Next.js`, `Python`, `CoinMarketCap API`, `PostgreSQL`, `IA`
+Tecnologias: `Next.js`, `TypeScript`, `RugCheck API`, `Styled-Components`, `React JS`
 
 ---
 
