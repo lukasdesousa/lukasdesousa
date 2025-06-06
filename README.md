@@ -1,28 +1,97 @@
-<img src='https://cdn-icons-png.flaticon.com/512/7218/7218647.png' alt='gif acenando' width='100' />
-<strong><h1>Olá, eu sou Lukas!</h1><br> 👋
-Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais cativantes, combinando minha expertise em desenvolvimento frontend e backend. Aqui, você encontrará alguns dos projetos nos quais estou trabalhando e tecnologias com as quais tenho experiência.
-<br>
+<!-- /README.md -->
 
+<h1 align="center">🌟 Lukas - Desenvolvedor Front-End</h1>
 
-💼 Sobre Mim
-Sou um desenvolvedor especializado em React e JavaScript, com uma sólida base em desenvolvimento backend usando Node.js. Minha jornada no desenvolvimento web me proporcionou vastos conhecimentos em HTML5 e CSS, permitindo que eu crie interfaces modernas, responsivas e focadas na experiência do usuário.
+<p align="center">
+  <img src="/assets/banner.png" alt="Banner Loveverse" style="border-radius: 12px" width="100%" />
+</p>
 
-Sempre em busca de inovação, gosto de explorar novos frameworks, ferramentas e práticas para entregar o melhor em cada projeto. Se você valoriza um código limpo e eficiente, e adora ver ideias ganhando vida no navegador, você está no lugar certo!
+<p align="center">
+  <b>Estudante de Engenharia de Software (3º semestre)</b> <br />
+  💻 Foco em front-end, UI/UX, performance e tecnologias modernas<br />
+  🚀 Explorando IA, Web3 e soluções que realmente impactam <br />
+  💡 "Escrever código é como poesia... você sente quando está fluindo."
+</p>
 
-🚀 Tecnologias e Ferramentas
-Aqui estão algumas das principais tecnologias e ferramentas com as quais trabalho:
+---
 
-Linguagens: JavaScript<br>
-Frontend: React, HTML5, CSS<br>
-Backend: Node.js<br>
-Ferramentas: Git, VS Code<br>
-🌱 Atualmente Aprendendo<br>
-A tecnologia nunca para, e eu também não! Atualmente, estou explorando:
+## 👨‍💻 Sobre mim
 
-Melhores práticas de arquitetura em aplicações React
-O ecossistema Node.js para escalabilidade e performance
+Olá! Sou Lukas, um desenvolvedor front-end apaixonado por transformar ideias em experiências digitais impactantes.  
+Atualmente estudo Engenharia de Software e me especializo na criação de interfaces modernas, com atenção especial à performance, design e usabilidade.
 
-🔗 Conecte-se Comigo
-Se você quiser trocar ideias, colaborar em projetos ou apenas conectar, sinta-se à vontade para me encontrar no LinkedIn!
+🎓 Também concluí o curso de **IA Generativa** pela *Santander Open Academy*, onde aprimorei meu olhar criativo para as novas tecnologias.
 
-LinkedIn:  <a href='https://www.linkedin.com/in/lukas-souza-05b85b304/' target='_blank'>Lukas Souza</a> </strong>
+---
+
+## 💼 Tecnologias favoritas
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 💘 Loveverse
+Plataforma social com envio de mensagens, imagens, sensores, verificação de e-mail e integração com PIX.
+
+<p align="center">
+  <img src="/assets/screenshot1.png" alt="Loveverse Screenshot" width="80%" />
+</p>
+
+Tecnologias: `Next.js`, `Redux`, `Styled Components`, `Cloudinary`, `Resend`, `Abacate Pay`
+
+---
+
+### 📊 Analyser
+Ferramenta de análise de contratos cripto com interface intuitiva, IA e gráficos.
+
+<p align="center">
+  <img src="/assets/screenshot2.png" alt="Analyser Screenshot" width="80%" />
+</p>
+
+Tecnologias: `Next.js`, `Python`, `CoinMarketCap API`, `PostgreSQL`, `IA`
+
+---
+
+## 🎯 Meus objetivos
+
+- 🚀 Continuar desenvolvendo soluções reais e escaláveis
+- 🧠 Aprofundar meus estudos em IA e Web3
+- 🤝 Colaborar em projetos open-source
+- 📱 Criar apps que causem impacto positivo em comunidades
+
+---
+
+## ✉️ Contato
+
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/seu-linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💜 Feito com dedicação, criatividade e muita cafeína.  
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
