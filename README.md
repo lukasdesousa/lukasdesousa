@@ -44,15 +44,19 @@ Atualmente estudo Engenharia de Software e me especializo na criação de interf
 
 ## 🚀 Projetos em destaque
 
-### 💘 Loveverse
+### 💘 Loveverse Space
 Plataforma social com envio de mensagens, imagens, sensores, envio de e-mails e integração com PIX.
+
+<a href="https://loveverse.space/">Ver projeto</a>
 
 Tecnologias: `Next.js`, `Styled Components`, `Cloudinary`, `Resend`, `React JS`
 
 ---
 
-### 📊 Analyser
+### 📊 Mundo Cripto / Analyser
 Ferramenta de análise de contratos cripto com interface intuitiva e gráficos.
+
+<a href="https://mundocripto.vercel.app/">Ver projeto</a>
 
 Tecnologias: `Next.js`, `TypeScript`, `RugCheck API`, `Styled-Components`, `React JS`
 
