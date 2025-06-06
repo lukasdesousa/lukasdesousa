@@ -1,9 +1,9 @@
 <!-- /README.md -->
 
-<h1 align="center">🌟 Lukas - Desenvolvedor Front-End</h1>
+<h1 align="center">🌟 Lukas - Desenvolvedor de software</h1>
 
 <p align="center">
-  <img src="/assets/banner.png" alt="Banner Loveverse" style="border-radius: 12px" width="100%" />
+  <img src="https://img1.picmix.com/output/stamp/normal/5/9/8/4/2444895_8d239.gif" alt="Banner Loveverse" style="border-radius: 12px" width="100%" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou Lukas, um desenvolvedor front-end apaixonado por transformar ideias em experiências digitais impactantes.  
+Olá! Sou Lukas, um desenvolvedor front-end & back-end apaixonado por transformar ideias em experiências digitais impactantes.  
 Atualmente estudo Engenharia de Software e me especializo na criação de interfaces modernas, com atenção especial à performance, design e usabilidade.
 
 🎓 Também concluí o curso de **IA Generativa** pela *Santander Open Academy*, onde aprimorei meu olhar criativo para as novas tecnologias.
@@ -56,7 +56,7 @@ Tecnologias: `Next.js`, `Redux`, `Styled Components`, `Cloudinary`, `Resend`, `A
 ---
 
 ### 📊 Analyser
-Ferramenta de análise de contratos cripto com interface intuitiva, IA e gráficos.
+Ferramenta de análise de contratos cripto com interface intuitiva e gráficos.
 
 <p align="center">
   <img src="/assets/screenshot2.png" alt="Analyser Screenshot" width="80%" />
@@ -69,7 +69,7 @@ Tecnologias: `Next.js`, `Python`, `CoinMarketCap API`, `PostgreSQL`, `IA`
 ## 🎯 Meus objetivos
 
 - 🚀 Continuar desenvolvendo soluções reais e escaláveis
-- 🧠 Aprofundar meus estudos em IA e Web3
+- 🧠 Aprofundar meus estudos em IA 
 - 🤝 Colaborar em projetos open-source
 - 📱 Criar apps que causem impacto positivo em comunidades
 
@@ -78,10 +78,10 @@ Tecnologias: `Next.js`, `Python`, `CoinMarketCap API`, `PostgreSQL`, `IA`
 ## ✉️ Contato
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/lukasdesousa">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="www.linkedin.com/in/lukasdesouza">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
