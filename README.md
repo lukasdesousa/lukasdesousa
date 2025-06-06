@@ -3,7 +3,7 @@
 <h1 align="center">🌟 Lukas - Desenvolvedor de software</h1>
 
 <p align="center">
-  <img src="https://i.redd.it/exporting-3d-model-as-gif-makes-it-glitchy-v0-y23i0mjsdlkc1.gif?width=625&auto=webp&s=ec9b7e4ec93012de9a54a54797d5fd5bbb361d38" alt="Banner Loveverse" width="80%" />
+  <img src="https://i.redd.it/exporting-3d-model-as-gif-makes-it-glitchy-v0-y23i0mjsdlkc1.gif?width=625&auto=webp&s=ec9b7e4ec93012de9a54a54797d5fd5bbb361d38" alt="Banner" width="80%" />
 </p>
 
 <p align="center">
