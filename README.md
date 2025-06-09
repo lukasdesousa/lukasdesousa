@@ -8,9 +8,7 @@
 
 <p align="center">
   <b>Estudante de Engenharia de Software (3º semestre)</b> <br />
-  
   💻 Foco em front-end & back-end, UI/UX, performance e tecnologias modernas<br />
-  
   🚀 Explorando IA e soluções que realmente impactam <br />
 </p>
 
