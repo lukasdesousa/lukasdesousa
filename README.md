@@ -48,7 +48,7 @@ Plataforma social com envio de mensagens, imagens, sensores, envio de e-mails e 
 
 <a href="https://loveverse.space/">Ver projeto</a>
 
-Tecnologias: `Next.js`, `Styled Components`, `Cloudinary`, `Resend`, `React JS`
+Tecnologias: `Next.js`, `Styled Components`, `Cloudinary`, `Resend`, `React JS`, `PostgreSQL`
 
 ---
 
