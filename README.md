@@ -19,7 +19,7 @@
 Olá! Sou Lukas, um desenvolvedor front-end & back-end apaixonado por transformar ideias em experiências digitais impactantes.  
 Atualmente estudo Engenharia de Software e me especializo na criação de interfaces modernas, com atenção especial à performance, design e usabilidade.
 
-🎓 Concluí o curso de **IA Generativa** pela *Santander Open Academy*, onde aprimorei meu olhar criativo para as novas tecnologias. <br />
+🎓 Concluí o curso de **IA Generativa** pela *Santander Open Academy*, onde aprimorei meu olhar criativo para as novas tecnologias. <br /> <br />
 🎓 Também concluí o curso de **JavaScript e TypeScript do básico ao avançado - Next js, React js, Redux (RTK), Node js, Linguagem SQL, Design Patterns e outros** pela *Udemy*, onde aprimorei minhas habilidades no desenvolvimento de aplicações e meu olhar criativo durante o curso.
 
 ---
