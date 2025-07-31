@@ -1,6 +1,6 @@
 <!-- /README.md -->
 
-<h1 align="center">🌟 Lukas - Desenvolvedor de software</h1>
+<h1 align="center">🌟 Lukas - Software Engineer</h1>
 
 <p align="center">
   <img src="skull_02.gif" alt="Banner" width="20%" />
